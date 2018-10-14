@@ -178,7 +178,7 @@ timezone: Asia/Ho_Chi_Minh
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -246,4 +246,4 @@ defaults:
       related: true
 
 # Custome theme
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.13.0"
